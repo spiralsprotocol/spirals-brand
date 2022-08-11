@@ -1,6 +1,6 @@
 # spirals-brand
 
-Basic brand assets exported from [this Figma design file](https://www.figma.com/file/XimikR3BuefgeMTPadtN0e/Spirals-Brand-(May-2022)
+Basic brand assets exported from [this Figma design file](https://www.figma.com/file/XimikR3BuefgeMTPadtN0e/Spirals-Brand-(May-2022))
 
 
 ## Revision History
